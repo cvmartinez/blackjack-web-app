@@ -2,4 +2,4 @@ __pycache__/
 tests/__pycache__/
 *.log
 venv/
-.coverage
+.coverageblackjack.db
